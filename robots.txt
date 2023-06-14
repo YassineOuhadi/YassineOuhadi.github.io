@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yassineouhadi.me/sitemap-index.xml
+Host: https://yassineouhadi.me
