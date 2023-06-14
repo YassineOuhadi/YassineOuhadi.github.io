@@ -1,7 +1,7 @@
 ---
 date: '2023-04-10'
 title: 'RFID based system'
-github: 'https://github.com/crowddj/crowddj-react'
+github: ''
 tech:
   - IoT
   - Arduino

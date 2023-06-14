@@ -1,7 +1,7 @@
 ---
 date: '2022-12-10'
 title: 'Applications APEX'
-github: 'https://github.com/YassineOuhadi/World-Cup-Express-App'
+github: ''
 tech:
   - Oracle
   - APEX

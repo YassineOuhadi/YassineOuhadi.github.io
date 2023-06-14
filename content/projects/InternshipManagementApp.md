@@ -2,7 +2,7 @@
 date: '2021-06-09'
 title: 'Internship Management App'
 github: ''
-external: 'https://blistabloc.com/'
+external: ''
 tech:
   - PHP
   - Laravel
