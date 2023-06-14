@@ -1,7 +1,7 @@
 ---
 date: '2017-12-21'
 title: 'DEUST'
-company: 'Sciences and Techniques Faculty'
+company: 'FSTE'
 location: 'Cupertino, CA'
 range: 'September 2019 - July 2021'
 url: 'https://lce-fste.ma/'
